@@ -1,2 +1,0 @@
-# Playground
-Face challenges
